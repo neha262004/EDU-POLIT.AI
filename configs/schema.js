@@ -7,3 +7,4 @@ export const USER_TABLE = pgTable('user',{
     email: varchar().notNull(),
     isMember: boolean().defaultTo(false),
 });
+mjnjnjn;
